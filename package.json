@@ -1,0 +1,26 @@
+{
+  "name": "node_basic_challenge_3_static_files",
+  "version": "1.0.0",
+  "description": "Challenge membuat page html yang mengimport css dan js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhartasman/node_basic_challenge_3_static_files.git"
+  },
+  "author": "anhar tasman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhartasman/node_basic_challenge_3_static_files/issues"
+  },
+  "homepage": "https://github.com/anhartasman/node_basic_challenge_3_static_files#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.1"
+  }
+}
